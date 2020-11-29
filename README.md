@@ -6,8 +6,8 @@ Please use __init__.py to run.
 
 Here are some templates of Loan Calculation Page.
 
-https://github.com/ShXIE-28/loan_calculator/blob/main/templates/t1.png
+![image](https://github.com/ShXIE-28/loan_calculator/blob/main/templates/t1.png)
 
-https://github.com/ShXIE-28/loan_calculator/blob/main/templates/t2.png
+![image](https://github.com/ShXIE-28/loan_calculator/blob/main/templates/t2.png)
 
-https://github.com/ShXIE-28/loan_calculator/blob/main/templates/t3.png
+![image](https://github.com/ShXIE-28/loan_calculator/blob/main/templates/t3.png)
